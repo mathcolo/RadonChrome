@@ -6,7 +6,7 @@ SIMBL extensions naturally require a SIMBL install on your system for use. I per
 
 If you don't feel like compiling RadonChrome yourself, I've released a 1.0 binary here on GitHub that you can download from [this page](https://github.com/mathcolo/RadonChrome/releases).
 
-**NOTE (July 2, 2015): EasySIMBL is not currently functional on OS X 10.10.4/10.11. EasySIMBL's developer has posted [a workaround](https://github.com/norio-nomura/EasySIMBL/issues/26#issuecomment-117028426) which might work for you.
+**NOTE (July 2, 2015): EasySIMBL is not currently functional on OS X 10.10.4/10.11. EasySIMBL's developer has posted [a workaround](https://github.com/norio-nomura/EasySIMBL/issues/26#issuecomment-117028426) which might work for you.**
 
 ### License
 MIT. See the included LICENSE file in the repository for more information.
