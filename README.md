@@ -1,6 +1,8 @@
 # RadonChrome
 RadonChrome is a SIMBL extension for Mac OS X to redirect Chrome notifications to Notification Center. I cannot guarantee it will work for you, but I'm currently using it with Yosemite and 64-bit Chrome 40.
 
+![preview](preview.png)
+
 ### Usage
 SIMBL extensions naturally require a SIMBL install on your system for use. I personally recommend [EasySIMBL](https://github.com/norio-nomura/EasySIMBL).
 
