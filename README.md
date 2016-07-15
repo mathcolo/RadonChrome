@@ -3,13 +3,16 @@ RadonChrome is a SIMBL extension for Mac OS X to redirect Chrome notifications t
 
 ![preview](preview.png)
 
+### Notice (July 14, 2016)
+In Chrome 51 (potentially earlier), native notifications are available as a flag in chrome://flags on OS X. This extension's days are over :)
+
 ### Notice (December 15, 2015)
 In OS X El Capitan, disabling System Integrity Protection is required to install SIMBL. I'm hesitant to continue updating RadonChrome when SIP mods are required. I'm investigating other ways to accomplish RadonChrome's task without playing with SIP, including maintaining a Chromium fork with direct to system notifications built-in. If this is something you're interested in helping with, please let me know!
 
 ### Usage
-SIMBL extensions naturally require a SIMBL install on your system for use. I personally recommend [EasySIMBL](https://github.com/norio-nomura/EasySIMBL) for OS X Yosemite and below. On OS X El Capitan, SIMBL must be installed with SIP turned off, as explained [here](https://github.com/norio-nomura/EasySIMBL/issues/26#issuecomment-117028426). 
+SIMBL extensions naturally require a SIMBL install on your system for use. I personally recommend [EasySIMBL](https://github.com/norio-nomura/EasySIMBL) for OS X Yosemite and below. On OS X El Capitan, SIMBL must be installed with SIP turned off, as explained [here](https://github.com/norio-nomura/EasySIMBL/issues/26#issuecomment-117028426).
 
-Given SIMBL is installed either: 
+Given SIMBL is installed either:
 
 1. Clone the repository
 2. Compile the .xcodeproj
